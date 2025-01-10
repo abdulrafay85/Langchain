@@ -1,0 +1,16 @@
+## chromadb ---> vector database
+## Faiss ---> vector database
+
+
+# api key
+# langchain google genai
+# convert_system_message_to_human= 
+
+## Rag
+# model initialise
+# pdf loder
+# text spilliter
+# langchain embading
+# vectore store
+# retrivelQA.from_chain_type
+# Prompt template

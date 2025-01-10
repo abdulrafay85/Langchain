@@ -1,0 +1,14 @@
+	
+### Cycle and Branching: 
+
+jo ap ka workflow tha ke step point a par jana hay. point b par jana hay ya point c par jana hay. aisa bhi ho sakta hay ke point c par jana ke baad point b par dobara ana pare or ho sakta hay ye point b or point c ke darmiyan ye jo process hay wo 10 dafa perfome ho ya 15 dafa perfome ho 
+
+### Persistance: 
+
+ka matlab hay kay ap ke graph ke andar jo information float karti hay 
+wo state ki sorat me ho. state kuch bhi nahi hain ap ki perticuler key value hain or jese kay dictiolnory hoti hay os ke andar information jo hay float hoti hay har node ke andar acha os persistence information ko handel karna os ko database me save karwna information ko apas me nodes me share karna or harloop ke baad os ke check point save karwana. persistence hume ye kehta hay ke os ki fully mermoty menegment ye ap ko karke deta hay.
+
+### Human-in-the-Loop: 
+
+ka matalab hay ke decision making karte wakt ke bhai me is student ko quater 1 enroll kar raha hon is me beech me insan a saktta hay insan agar os ko allow karta hay ke addemsion dediya jay to os ko allow kardiya jayga or agar os ko reject karna hay hum os ko reject karwa sakte hen. to apki ki agentic 
+framework ke andar graph ki madad se ya lanGraph ki madad se ap is loop ke andar is workflow ke andar insan ko bhi shamil karsakte hen. or is ke baad ye jo sari information hay history jo mantain ho rahi hay ye jo langsmith ki madad se wo backend par save kar ta hay khali addetionol kaam hay. insan ko hum is loop; ke andar shamil karsakte is ka matalab hay ke jab hum ne koi kaam karne ko diya backend par wo kaam process ho raha hay process karne ke baad final approvel jo hay wo insan ke hath me dedi jay to agar kisi bhi nodes ke opar ya kisi bhi edges ko opar perticuler insan ki envolvement like mudhklat karna charahe hen control dena chahrahe hen  to ap wo bhi control desate hen

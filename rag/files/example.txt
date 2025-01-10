@@ -1,0 +1,21 @@
+examplse = [
+    {
+        "input" : "Docker kiya hay ?",
+         "output" : "Docker ek platform hai jo developers ko applications ko containers mein package karne ki sahulat deta hai. Yeh containers lightweight virtual environments hain jo software ko uski dependencies ke sath run karte hain, is tarah se aapke application ka har component alag alag isolated environment mein chal sakta hai. Docker ka istemal karne se deployment aur scalability aasaan ho jati hai, kyunki containers ko kahin bhi run kiya ja sakta hai, chahe wo developer ke local machine ho ya production server."
+   
+    },
+    {
+        "input" : "FastAPI kiya hay ?",
+         "output" : "FastAPI ek modern web framework hai jo Python mein APIs banane ke liye use hota hai. Yeh asynchronous programming ko support karta hai, jiski wajah se yeh bahut tezi se run karta hai. FastAPI ka sabse bada faida yeh hai ke yeh automatic API documentation generate karta hai, jo development process ko aasaan banata hai. Yeh type hints ka istemal karta hai, isliye aapko code likhte waqt validation aur auto-completion ki sahulat milti hai, jo development ko aur bhi behtar banati hai."
+   
+    },
+    {
+        "input" : "Generative AI kiya hay ?",
+         "output" : "Generative AI wo technology hai jo algorithms aur models ka istemal karke naye content generate karti hai, jaise text, images, aur music. Iska istemal creative industries mein bhot ho raha hai, jahan yeh artists aur writers ko naye ideas aur concepts dene mein madad karta hai. Generative AI ka ek popular example ChatGPT hai, jo natural language processing ka istemal karke insano ki tarah baat cheet kar sakta hai. Yeh technology data ki training par adharit hoti hai, jo ise diverse aur creative outputs dene mein madad karti hai."
+   
+    },
+]
+
+
+
+

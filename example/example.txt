@@ -1,0 +1,10 @@
+question : who is bilal ?
+answer : bilal is Good looking boy.
+
+question : What is Bilal's gender ? 
+answer : Bilal's gender is male.
+
+question : Who is Bilal's favorite actor ?
+answer : Bilal's favorite actor is Thomas Shalbey.
+
+

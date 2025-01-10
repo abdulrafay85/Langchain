@@ -1,0 +1,10 @@
+langchain
+faiss-gpu
+langchain-google-genai
+
+
+# %pip install -qU langchain
+# %pip install -qU langchain-google-genai
+# %pip install -qU langchain-core
+# %pip install -qU langchain-community
+# !pip install faiss-cpu
